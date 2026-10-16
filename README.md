@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👾 dauan-Dev (Dauan)
 
-<!--
-**ddzin993/ddzin993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do 1º ano do EM | Futuro Engenheiro | Linux Lover 🐧
 
-Here are some ideas to get you started:
+## 🔧 O que eu faço
+- 🛠️ Criador do **Ether OS** (SO minimalista focado em privacidade)
+- 🦀 Aprendendo Rust e Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Stack
+`Linux` `Bash` `Git` `Python (aprendendo)` `Rust (aprendendo)`
+
+## 🗂️ Projetos
+- [Hub de projetos](https://github.com/ddzin993/dauan-Dev)
+
+> "Menos é mais. Código limpo, mente tranquila."
